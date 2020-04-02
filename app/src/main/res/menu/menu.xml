@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/dangnhap" android:title="Đăng Nhập"/>
+    <item android:id="@+id/dangki" android:title="Đăng Kí"/>
+    <item android:id="@+id/giohang" android:title="Gio Hang" app:showAsAction="always" android:icon="@drawable/shopping_cart"/>
+    <item android:id="@+id/thongtin" android:title="Thông Tin App"/>
+</menu>
